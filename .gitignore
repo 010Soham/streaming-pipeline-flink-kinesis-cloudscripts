@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller artifacts
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm directories
+.vscode/
+.idea/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.cache/
+.coverage
+*.cover
+.hypothesis/
+pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Profiling data
+.prof
+*.prof
+
+# Logs and temp files
+*.log
+*.out
+*.tmp
+*.temp
+*.bak
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Data files
+*.csv
+*.parquet
+*.jsonl
+*.tsv
+*.avro
+*.orc
+
+# Large binary files
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+*.bz2
+*.7z
+*.pickle
+*.pkl
+
+# Hadoop / Spark / Data Engineering artifacts
+*.crc
+*.snappy
+*.lzo
+*.gz
+*.zstd
+*.dask
+
+# AWS/Azure/Google Cloud credentials
+*.pem
+*.key
+*.json
+*.crt
+*.p12
+*.enc
+
+# Terraform and Cloud Configs
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Airflow related files
+airflow.cfg
+unittests.cfg
+logs/
+*.pid
+
+# Temporary development artifacts
+.DS_Store
+*.swp
+*.swo
+*.orig
+*.rej
