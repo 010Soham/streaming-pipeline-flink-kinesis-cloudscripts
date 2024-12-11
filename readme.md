@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates a streaming data pipeline built using Apache Flink and Amazon Kinesis.
+This project demonstrates a streaming data pipeline built using Apache Flink and Amazon Kinesis and connected to cloudwatch and grafana.
 
 ## Folder Structure
 
